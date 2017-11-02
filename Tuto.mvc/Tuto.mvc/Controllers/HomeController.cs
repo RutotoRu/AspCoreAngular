@@ -16,6 +16,7 @@ namespace Tuto.mvc.Controllers
         public IActionResult Inde23()
         {
             return RedirectToAction("Index");
+            
 
         }
     }
