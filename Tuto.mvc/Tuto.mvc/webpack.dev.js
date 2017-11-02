@@ -96,10 +96,10 @@ module.exports = {
             $: "jquery",
             jquery: "jquery"
         }),
-        new HtmlWebpackPlugin({
-            template: "./tuto.page/index.html",
-            inject: "body",
-            filename: "index.html"
-        })
+        // new HtmlWebpackPlugin({
+        //     template: "./tuto.page/index.html",
+        //     inject: "body",
+        //     filename: "index.html"
+        // })
     ]
 };

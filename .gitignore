@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Tuto.mvc/.idea/.idea.Tuto.mvc/.idea
+/Tuto.mvc/.idea/.idea.Tuto.mvc/riderModule.iml
+/Tuto.mvc/.vs/Tuto.mvc/v15
+/Tuto.mvc/Tuto.mvc/node_modules

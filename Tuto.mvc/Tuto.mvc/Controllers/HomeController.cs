@@ -8,16 +8,7 @@ namespace Tuto.mvc.Controllers
         [Route("home")]
         public IActionResult Index()
         {
-            return
-            View();
-        }
-        // GET
-        [Route("home2")]
-        public IActionResult Inde23()
-        {
-            return RedirectToAction("Index");
-            
-
+            return View();
         }
     }
 }

@@ -18,22 +18,9 @@ namespace Tuto.mvc
 
         public IConfiguration Configuration { get; }
 
-        // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddOptions();
-//            services.AddCors(options =>
-//            {
-//                options.AddPolicy("AllowAllOrigins",
-//                    builder =>
-//                    {
-//                        builder
-//                            .AllowAnyOrigin()
-//                            .AllowAnyHeader()
-//                            .AllowAnyMethod();
-//                    });
-//            });
-
             services.AddMvc();
         }
 
@@ -70,12 +57,7 @@ namespace Tuto.mvc
                     });
                 });
             }
-
-//            app.UseDefaultFiles();
             app.UseStaticFiles();
-//
-//            app.UseCors("AllowAllOrigins");
-
             app.UseMvc(routes =>
             {
                 routes.MapRoute(
