@@ -1,0 +1,11 @@
+C:\Users\Roman\source\repos\Tuto.Mvc\Tuto.mvc\Tuto.mvc\obj\Debug\netcoreapp2.0\Tuto.mvc.csprojResolveAssemblyReference.cache
+C:\Users\Roman\source\repos\Tuto.Mvc\Tuto.mvc\Tuto.mvc\bin\Debug\netcoreapp2.0\Tuto.mvc.deps.json
+C:\Users\Roman\source\repos\Tuto.Mvc\Tuto.mvc\Tuto.mvc\bin\Debug\netcoreapp2.0\Tuto.mvc.runtimeconfig.json
+C:\Users\Roman\source\repos\Tuto.Mvc\Tuto.mvc\Tuto.mvc\bin\Debug\netcoreapp2.0\Tuto.mvc.runtimeconfig.dev.json
+C:\Users\Roman\source\repos\Tuto.Mvc\Tuto.mvc\Tuto.mvc\bin\Debug\netcoreapp2.0\Tuto.mvc.dll
+C:\Users\Roman\source\repos\Tuto.Mvc\Tuto.mvc\Tuto.mvc\bin\Debug\netcoreapp2.0\Tuto.mvc.pdb
+C:\Users\Roman\source\repos\Tuto.Mvc\Tuto.mvc\Tuto.mvc\obj\Debug\netcoreapp2.0\Tuto.mvc.csproj.CoreCompileInputs.cache
+C:\Users\Roman\source\repos\Tuto.Mvc\Tuto.mvc\Tuto.mvc\obj\Debug\netcoreapp2.0\Tuto.mvc.AssemblyInfoInputs.cache
+C:\Users\Roman\source\repos\Tuto.Mvc\Tuto.mvc\Tuto.mvc\obj\Debug\netcoreapp2.0\Tuto.mvc.AssemblyInfo.cs
+C:\Users\Roman\source\repos\Tuto.Mvc\Tuto.mvc\Tuto.mvc\obj\Debug\netcoreapp2.0\Tuto.mvc.dll
+C:\Users\Roman\source\repos\Tuto.Mvc\Tuto.mvc\Tuto.mvc\obj\Debug\netcoreapp2.0\Tuto.mvc.pdb

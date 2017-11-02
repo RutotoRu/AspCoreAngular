@@ -1,0 +1,35 @@
+<label>Enter name:</label>
+<input [(ngModel)]="name" placeholder="name">
+<input [(ngModel)]="age" placeholder="age">
+<h1>Hello {{name}}!</h1>
+<!-- <h2>Bindings in Angular 2</h2> -->
+<!-- <binding></binding> -->
+<!-- <child-1><h1>Parent {{name}}</h1></child-1> -->
+
+<!-- Relationship between components -->
+<rel-child-comp [userName]="name" [userAge1]="age"></rel-child-comp>
+
+<!-- Relationship between components EVENTS -->
+
+<h2>Click count: {{clicks}}</h2>
+<rel-child-comp2 (LocalClickCounter)="ClickCounter($event)"></rel-child-comp2>
+
+<!-- Relationship between components EVENTS two ways-->
+<br>
+<rel-child-comp3 [(userName)]="name"></rel-child-comp3>
+<!--<rel-child-comp3 [userName]="name" (userNameChange)="ParentChangeName($event)"></rel-child-comp3>-->
+
+<hr>
+<app-lifeloop></app-lifeloop>
+<hr>
+<app-lifeloop-main></app-lifeloop-main>
+<hr>
+<general-lifecycle-main></general-lifecycle-main>
+<hr>
+<main-template></main-template>
+<hr>
+<main-viewchild></main-viewchild>
+<hr>
+<main-viewchild-second></main-viewchild-second>
+<hr>
+<main-content-child></main-content-child>

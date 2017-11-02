@@ -1,0 +1,21 @@
+<p>Binding #1:</p>
+
+<p>Имя: {{name}}</p>
+<p>Возраст: {{age}}</p>
+<hr>
+<p>Binding #2:</p>
+
+<input type="text" [value]="name" />
+<hr>
+<p>Binding #3:</p>
+
+<p>Click numbers {{count}}</p>
+<button (click)="increase()">Click</button>
+
+<hr>
+<p>Binding #4:</p>
+
+<p>{{someVar}}</p>
+<input type="text" [(ngModel)]="someVar" /> 
+<br><br>
+<input type="text" [(ngModel)]="someVar" />
